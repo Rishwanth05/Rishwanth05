@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Rishwanth+%F0%9F%91%8B;Software+Engineer+%7C+Builder+%7C+Problem+Solver;From+pipelines+to+products+%E2%80%94+I+ship+things." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Rishwanth+%F0%9F%91%8B;Software+Engineer;Builder+%7C+Problem+Solver;I+ship+things+that+matter." alt="Typing SVG" />
 
 <br/>
 
@@ -141,8 +141,12 @@ End-to-end data engineering and analytics project covering ingestion, transforma
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rishwanth05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishwanth05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rishwanth05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishwanth05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Rishwanth05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
