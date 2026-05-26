@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Rishwanth+%F0%9F%91%8B;Data+Engineer+%7C+Builder+%7C+Problem+Solver;Turning+raw+data+into+real+decisions." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Rishwanth+%F0%9F%91%8B;Software+Engineer+%7C+Builder+%7C+Problem+Solver;From+pipelines+to+products+%E2%80%94+I+ship+things." alt="Typing SVG" />
 
 <br/>
 
@@ -16,9 +16,9 @@
 
 > *"Skills can be taught, but character cannot."*
 
-I'm a **Computer Science grad student at University of Central Missouri** and a mission-driven Data Engineer who builds pipelines that don't just move data — they move decisions. With hands-on industry exposure at **Alten India** and deep expertise across the modern data stack (Airflow, dbt, Snowflake, Spark), I specialize in turning messy, siloed data into clean, governed, analytics-ready systems.
+I'm a **Computer Science grad student at University of Central Missouri** and a mission-driven Software Engineer who builds full-stack applications and data systems that solve real problems. With hands-on industry exposure at **Alten India** and experience across the modern data stack (Airflow, dbt, Snowflake, Spark) and web stack (React, Node.js, PostgreSQL), I bridge the gap between raw data and working products.
 
-I don't just solve technical problems — I find them first. Both my flagship projects were born from real frustrations I personally experienced, because I believe the best engineers build for people, not resumes.
+I don't just solve technical problems — I find them first. My best projects were born from frustrations I personally experienced, because I believe the best engineers build for people, not resumes.
 
 ---
 
@@ -31,40 +31,80 @@ I don't just solve technical problems — I find them first. Both my flagship pr
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### ⚙️ Data Engineering & Orchestration
+### ⚙️ Data Pipeline & Orchestration
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white)
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+### 🔥 Batch & Stream Processing
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![AWS Kinesis](https://img.shields.io/badge/AWS%20Kinesis-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure Event Hubs](https://img.shields.io/badge/Azure%20Event%20Hubs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+### ☁️ Cloud — AWS
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![EMR](https://img.shields.io/badge/EMR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+
+### ☁️ Cloud — Azure
+![Azure Data Factory](https://img.shields.io/badge/ADF-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Synapse](https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![ADLS Gen2](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
 
 ### 🏛️ Data Warehouses & Lakehouses
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logo=databricks&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-326CE5?style=flat-square&logo=apache&logoColor=white)
+![Apache Hudi](https://img.shields.io/badge/Apache%20Hudi-E25A1C?style=flat-square&logo=apache&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
 
-### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+### 📐 Data Modeling
+![Star Schema](https://img.shields.io/badge/Star%20Schema-6A5ACD?style=flat-square)
+![Kimball](https://img.shields.io/badge/Kimball%20Methodology-4B0082?style=flat-square)
+![Data Vault 2.0](https://img.shields.io/badge/Data%20Vault%202.0-2E4057?style=flat-square)
+
+### 🛡️ Data Quality & Governance
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-FF6B6B?style=flat-square)
+![dbt Tests](https://img.shields.io/badge/dbt%20Tests-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![HIPAA](https://img.shields.io/badge/HIPAA-2E8B57?style=flat-square)
+![GDPR](https://img.shields.io/badge/GDPR-003366?style=flat-square)
+![SOX](https://img.shields.io/badge/SOX-8B0000?style=flat-square)
 
 ### 🔧 DevOps & DataOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+### 📊 BI, APIs & Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
 
 ---
 
@@ -89,7 +129,7 @@ A machine learning pipeline that ingests, cleans, and models rental listing data
 ---
 
 ### 🔍 [Crime Data Analysis — Urban Safety Intelligence](https://github.com/Rishwanth05?tab=repositories)
-> **Why it exists:** Raw crime data is public but almost never accessible — this project transforms it into actionable geographic and temporal insights that could inform policy, planning, and personal safety decisions.
+> **Why it exists:** Raw crime data is public but almost never actionable — this project transforms it into geographic and temporal insights that could inform policy, planning, and personal safety decisions.
 
 End-to-end data engineering and analytics project covering ingestion, transformation, and visualization of large-scale crime datasets. Built with a focus on reproducibility, clear schema design, and BI-ready output layers for Tableau/Power BI consumption.
 
@@ -118,7 +158,7 @@ End-to-end data engineering and analytics project covering ingestion, transforma
 
 ## 💬 Let's Connect
 
-I'm always open to discussing data engineering challenges, interesting projects, or new opportunities.
+I'm always open to discussing interesting projects, collaboration, or new opportunities.
 
 <div align="center">
 
@@ -133,7 +173,7 @@ I'm always open to discussing data engineering challenges, interesting projects,
 
 ## ⚡ Fun Fact
 
-I don't start projects with a tech stack — I start with a problem I've lived. SAVE was built to protect people from hazards. The rental predictor was built because I was lost in an unfamiliar city. I believe the best data engineers aren't just pipeline architects — they're people who *feel* the friction in broken systems and can't rest until it's fixed.
+I don't start projects with a tech stack — I start with a problem I've lived. SAVE was built to protect people from hazards. The rental predictor was built because I was lost in an unfamiliar city. I believe the best engineers aren't just architects — they're people who *feel* the friction in broken systems and can't rest until it's fixed.
 
 ---
 
